@@ -1,68 +1,91 @@
-JUNAID TELECOM
-A Fully Assistant App for Shopkeepers
+# **📱 JUNAID TELECOM**
 
-JUNAID TELECOM is a smart, modern, and complete shop-assistant mobile application built to help shopkeepers manage their entire workflow smoothly.
-From claim device tracking to stock management and account handling — everything is integrated in one simple, fast, and easy-to-use app.
+## **🛒 A Fully Assistant App for Shopkeepers**
 
+<img align="left" width="200" src="https://github.com/user-attachments/assets/f01ef398-c9d2-4ede-96a9-01bbacd47e2c" alt="Screenshot 1"/>
 
-🚀 Features
+**JUNAID TELECOM** is a smart, modern, and complete shop-assistant mobile application built to help shopkeepers manage their entire workflow smoothly.
 
-JUNAID TELECOM is a complete assistant app for shopkeepers, offering:
+From **claim device tracking** to **stock management** and **account handling** — everything is integrated in one simple, fast, and easy-to-use app.
 
-Smart Stock Management — Add, update, search and track all inventory with low-stock alerts.
+<br clear="left"/>
 
-Claim/Repair Management — Record claim devices, track their status, and update progress in one place.
+---
 
-Transaction History — Maintain full records of sales, purchases, credits, and debits.
+## **🚀 Features**
 
-Customer Management — Save customer details, balances, and previous orders.
+<img align="left" width="200" src="https://github.com/user-attachments/assets/04fa3653-859b-404e-a832-f83b358d58e3" alt="Screenshot 2"/>
 
-Detailed Reports — Daily/weekly reports for sales, stock, and claims.
+**JUNAID TELECOM** is a complete assistant app for shopkeepers, offering:
 
-Secure Access — Login system, user control, safe local storage.
+✅ **Smart Stock Management** — Add, update, search and track all inventory with low-stock alerts  
+✅ **Claim/Repair Management** — Record claim devices, track their status, and update progress in one place  
+✅ **Transaction History** — Maintain full records of sales, purchases, credits, and debits  
+✅ **Customer Management** — Save customer details, balances, and previous orders  
+✅ **Detailed Reports** — Daily/weekly reports for sales, stock, and claims  
+✅ **Secure Access** — Login system, user control, safe local storage  
+✅ **Fully Customizable UI** — Easy-to-use layout designed for shopkeepers
 
-Fully Customizable UI — Easy-to-use layout designed for shopkeepers.
+<br clear="left"/>
 
+---
 
-🏗 Tech Used
+## **🏗️ Tech Stack**
 
-Flutter / FlutterFlow
+<img align="left" width="200" src="https://github.com/user-attachments/assets/43f44db6-11c5-41eb-bb18-31680c5b1e10" alt="Screenshot 3"/>
 
-Firebase Firestore & Auth
+- **Flutter / FlutterFlow**
+- **Firebase Firestore & Auth**
+- **Dart**
+- **Material 3 UI**
+- **Lottie & Smooth Animations**
 
-Dart
+<br clear="left"/>
 
-Material 3 UI
+---
 
-Lottie & Smooth Animations
+## **📸 App Screenshots**
 
+<div>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/785ed9dd-520c-49f4-a98b-e17e0372b1b3" alt="Screenshot 4"/>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/8606589c-0157-4415-b210-efec2aa69b01" alt="Screenshot 5"/>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/88a2efe5-7339-4376-a452-9f9119b564e7" alt="Screenshot 6"/>
+</div>
 
-![1.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/1.png)
-![2.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/2.png)
-![3.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/3.png)
-![4.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/4.png)
-![5.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/5.png)
-![6.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/6.png)
-![7.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/7.png)
-![8.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/8.png)
-![9.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/9.png)
-![10.png](../../../Downloads/Black%20and%20White%20Phone%20Mockup%20Webinar%20Promotion%20Instagram%20Story/10.png)
+<br clear="left"/>
 
+<div>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/2fcf6d37-7d8a-47d9-9104-1ba70451bbdc" alt="Screenshot 7"/>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/5a49bbe7-9c63-43c1-961f-9d4fc924a5bb" alt="Screenshot 8"/>
+<img align="left" width="200" src="https://github.com/user-attachments/assets/77238b43-1acb-4f93-aa02-34501d26f283" alt="Screenshot 9"/>
+</div>
 
-Purpose of the App
+<br clear="left"/>
 
-"Ab aap asaan tareeqay se apne claim devices, stock, aur accounts ka pura hisaab rakh sakte hain."
+---
 
+## **🎯 Purpose of the App**
 
+> **"Ab aap asaan tareeqay se apne claim devices, stock, aur accounts ka pura hisaab rakh sakte hain."**
 
-🔗 Connect With Me
+**Translation:** Now you can easily manage your claim devices, stock, and accounts in a complete and organized way.
 
-LinkedIn:
-https://www.linkedin.com/in/shoaib-altaf-2a1760313/
+---
 
-Instagram:
-@shoaib_altaf1965
+## **🔗 Connect With Me**
 
-⭐ Support
+**LinkedIn:**  
+🔵 [Shoaib Altaf](https://www.linkedin.com/in/shoaib-altaf-2a1760313/)
 
-If you like this project, please star the repository — it helps motivate future updates!
+**Instagram:**  
+📷 [@shoaib_altaf1965](https://instagram.com/shoaib_altaf1965)
+
+---
+
+## **⭐ Support**
+
+If you like this project, please **⭐ star the repository** — it helps motivate future updates!
+
+---
+
+**💡 Built with passion for shopkeepers | 🚀 Making business management easier**
