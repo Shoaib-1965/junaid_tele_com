@@ -87,5 +87,9 @@ From **claim device tracking** to **stock management** and **account handling** 
 If you like this project, please **⭐ star the repository** — it helps motivate future updates!
 
 ---
+## License
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
 
 **💡 Built with passion for shopkeepers | 🚀 Making business management easier**
